@@ -7,7 +7,7 @@ Here's a brief guide on how to get started 😉:
 
 **Step 1: Create your own Discord bot using this link [Discord Developer Portal](https://discord.com/developers/applications)**.
 
-**Step 2: Install [NodeJS](https://nodejs.org/en/)  and [Visual Studio Code](https://code.visualstudio.com/)**. You can use other code editors, it's up to your preferences. 
+**Step 2: Install [Python](https://www.python.org/downloads/)  and [Visual Studio Code](https://code.visualstudio.com/)**. You can use other code editors, it's up to your preferences. 
 
 **Step 3: Install essential packages and extension**
 
